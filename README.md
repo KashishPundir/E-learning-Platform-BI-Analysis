@@ -8,9 +8,6 @@ An interactive Power BI project for exploring student performance, learning enga
 
 - [Project Overview](#project-overview)
 - [Business Objectives](#business-objectives)
-- [Dashboard Pages](#dashboard-pages)
-  - [Student Performance & Engagement](#1-student-performance--engagement)
-  - [Dropout Risk & Alerts](#2-student-dropout-risk--alerts)
 - [Dataset Overview](#dataset-overview)
 - [Data Model & Analysis](#data-model--analysis)
 - [Key Metrics](#key-metrics)
@@ -20,8 +17,6 @@ An interactive Power BI project for exploring student performance, learning enga
 - [Technology Stack](#technology-stack)
 - [Repository Structure](#repository-structure)
 - [Getting Started](#getting-started)
-- [Limitations & Scope](#limitations--scope)
-- [Future Improvements](#future-improvements)
 - [Author](#author)
 
 ---
@@ -51,6 +46,7 @@ The dashboard is designed to help users move beyond isolated totals and explore 
 ## Dashboard Pages
 
 ### 1. Executive Overview
+![Executive Overview Dashboard](Screenshots/Executive%20Overview.png)
 
 ### 2. Student Performance & Engagement
 
@@ -66,10 +62,10 @@ This page focuses on academic outcomes and student learning behavior.
 
 **Purpose:** Explore how attendance and learning engagement vary alongside academic performance, and compare outcomes across programs and courses.
 
+![Student Performance Dashboard](Screenshots/Student%20Performance%20%26%20Engagement.png)
 
 
-
-### 2. Student Dropout Risk & Alerts
+### 3. Student Dropout Risk & Alerts
 
 This page focuses on students flagged as potential dropout risks, academic-status distribution, and alert monitoring.
 
@@ -91,7 +87,7 @@ This page focuses on students flagged as potential dropout risks, academic-statu
 
 **Purpose:** Examine the indicators associated with students flagged as at risk and monitor alerts that may require academic follow-up.
 
-
+![Student Retention & Dropout Rate Analysis](Screenshots/Student%20Retention%20%26%20Dropout%20Risk%20Analysis.png)
 
 ---
 
@@ -231,9 +227,6 @@ E-Learning-Analytics-Dashboard/
 ## Getting Started
 
 1. **Clone the repository.**
-
-   Replace `YOUR-USERNAME` with your GitHub username:
-
    ```bash
    git clone https://github.com/KashishPundir/E-Learning-Analytics-Dashboard.git
    ```
