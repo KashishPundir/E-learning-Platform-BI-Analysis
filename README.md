@@ -228,7 +228,7 @@ E-Learning-Analytics-Dashboard/
 
 1. **Clone the repository.**
    ```bash
-   git clone https://github.com/KashishPundir/E-Learning-Analytics-Dashboard.git
+   git clone https://github.com/KashishPundir/E-learning-Platform-BI-Analysis.git
    ```
 
 2. **Open the project folder** on your computer.
